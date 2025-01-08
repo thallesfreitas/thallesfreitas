@@ -89,13 +89,11 @@ Using Git ideas:
 ---  
 
 - 👯 **I’m looking to collaborate on**: Open-source projects in AI, full-stack applications, and anything that leverages technology to make a positive impact.
-- 
+ 
 - 🤔 **I’m looking for help with**: Exploring new use cases for AI in digital products and user experience.
-- 
+ 
 - 💬 **Ask me about**: Digital product innovation, team leadership, AI and how to align technology with business strategy.
-- 
+ 
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/thalles) or [Email](mailto:thallesfreitas@yahoo.com.br).
-- 
-- 😄 **Pronouns**: He/Him
-- 
+ 
 - ⚡ **Fun fact**: I’ve helped over 20,000 professionals land new opportunities through my initiative *BoraAjudar.Work*!  
